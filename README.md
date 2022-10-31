@@ -1,2 +1,3 @@
 # test
-bray.script.module.addon.signals-master.zip
+<a href="bray.script.module.addon.signals-master.zip">addon.zip</a>
+
